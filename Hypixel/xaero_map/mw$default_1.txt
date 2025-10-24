@@ -1,0 +1,173 @@
+sets:Travel:gui.xaero_default:Hub NPCs:Mining Islands NPCs:Rift Dimension NPCs:Dark Auction NPCs:Park NPCs:Farming Islands NPCs:Dungeons NPCs:Dungeon Hub NPCs
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Gwynnie: :116:72:12:11:false:0:Hub NPCs:false:0:0:false
+waypoint:Angler Angus: :92:75:5:13:false:0:Hub NPCs:false:0:0:false
+waypoint:Alda: :65:73:-59:6:false:0:Hub NPCs:false:0:0:false
+waypoint:Grumblefoot: :42:118:75:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Mayor Diaz: :-1:74:-112:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Minister Aatrox: :-3:74:-110:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Hub Selector: :-10:72:-67:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Leo: :-8:72:-76:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Farm Merchant: :15:72:-72:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Security Sloth: :2:72:-76:4:false:0:Hub NPCs:false:0:0:false
+waypoint:Jack: :-1:72:-55:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Vex: :-17:72:-82:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Duke: :-12:72:-96:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Shen's Agent::-7:57:-96:6:false:0:Hub NPCs:false:0:0:false
+waypoint:Elizabeth: :-4:74:-102:13:false:0:Hub NPCs:false:0:0:false
+waypoint:Damia::-30:59:-91:6:false:0:Hub NPCs:false:0:0:false
+waypoint:Bazaar::-33:73:-77:6:false:0:Hub NPCs:false:0:0:false
+waypoint:Felix: :-26:70:-104:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Clerk Seraphine: :4:74:-105:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Librarian: :-36:71:-113:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Lynn: :-22:70:-125:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Blacksmith: :-29:71:-126:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Mine Merchant: :-9:70:-125:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Weaponsmith: :-10:70:-130:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Dusk: :-38:70:-126:5:false:0:Hub NPCs:false:0:0:false
+waypoint:Smithmonger: :-33:71:-136:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Bazaar Agent::-40:72:-79:6:false:0:Hub NPCs:false:0:0:false
+waypoint:Auction Master::-47:75:-91:6:false:0:Hub NPCs:false:0:0:false
+waypoint:Lumber Merchant: :-50:72:-68:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Adventurer: :-42:72:-65:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Richard: :-51:74:-61:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Zarina::-43:74:-55:6:false:0:Hub NPCs:false:0:0:false
+waypoint:Liz: :-56:74:-57:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Banker::-25:73:-59:6:false:0:Hub NPCs:false:0:0:false
+waypoint:Jamie: :-36:70:-39:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Wool Weaver: :-47:76:-31:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Mad Redstone Engineer: :-52:67:-29:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Builder: :-51:73:-28:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Maddox the Slayer: :-74:67:-50:5:false:0:Hub NPCs:false:0:0:false
+waypoint:Bartender: :-84:73:-48:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Lumber Jack: :-113:76:-37:2:false:0:Hub NPCs:false:0:0:false
+waypoint:Pat: :-135:75:-98:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Farmer: :44:74:-163:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Shania: :48:73:-160:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Arthur: :51:73:-137:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Bobby Joe: :62:73:-116:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Vincent: :97:74:-103:11:false:0:Hub NPCs:false:0:0:false
+waypoint:Fisherman Gerald: :153:70:55:9:false:0:Hub NPCs:false:0:0:false
+waypoint:Fishing Merchant: :136:72:34:11:false:0:Hub NPCs:false:0:0:false
+waypoint:Tia the Fairy: :129:68:137:13:false:0:Hub NPCs:false:0:0:false
+waypoint:Lucius: :125:75:165:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Gladiator: :123:81:165:11:false:0:Hub NPCs:false:0:0:false
+waypoint:Shifty: :114:75:175:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Rabbit Uncle: :-19:73:16:10:false:0:Hub NPCs:false:0:0:false
+waypoint:Amelia: :-45:87:-5:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Christopher: :-60:91:-17:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Erihann: :40:102:69:9:false:0:Hub NPCs:false:0:0:false
+waypoint:Nicole: :39:92:72:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Udium: :44:106:76:11:false:0:Hub NPCs:false:0:0:false
+waypoint:Wizard: :46:124:75:5:false:0:Hub NPCs:false:0:0:false
+waypoint:Scoop: :5:183:25:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Guyw: :51:81:-14:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Maxwell: :46:71:-35:6:false:0:Hub NPCs:false:0:0:false
+waypoint:Ozanne: :41:72:-40:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Maths Enjoyer: :56:71:-40:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Jacobus: :52:71:-43:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Andrew: :38:70:-47:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Seymour: :25:67:-41:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Taylor: :22:73:-46:11:false:0:Hub NPCs:false:0:0:false
+waypoint:Tyashoi Alchemist: :41:70:-56:5:false:0:Hub NPCs:false:0:0:false
+waypoint:Liam: :10:72:-42:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Tom: :28:71:-58:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Alchemist: :41:72:-64:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Jacob: :23:73:-69:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Anita: :23:79:-70:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Carpenter: :15:74:-22:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Apprentice::20:63:-9:6:false:0:Hub NPCs:false:0:0:false
+waypoint:Marco::-10:73:-14:6:false:0:Hub NPCs:false:0:0:false
+waypoint:Rabbit Bro: :8:73:19:10:false:0:Hub NPCs:false:0:0:false
+waypoint:Rabbit Cousin: :18:71:17:9:false:0:Hub NPCs:false:0:0:false
+waypoint:Rabbit Dog: :15:70:13:10:false:0:Hub NPCs:false:0:0:false
+waypoint:Rabbit Granny: :9:71:23:10:false:0:Hub NPCs:false:0:0:false
+waypoint:Rabbit Daddy: :14:71:23:10:false:0:Hub NPCs:false:0:0:false
+waypoint:Rabbit Sis: :18:71:24:10:false:0:Hub NPCs:false:0:0:false
+waypoint:Madame Eleanor Q. Goldsworth III::-63:79:84:6:false:0:Hub NPCs:false:0:0:false
+waypoint:Curator: :-27:66:84:11:false:0:Hub NPCs:false:0:0:false
+waypoint:Plumber Joe: :56:72:-78:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Fishing Merchant: :52:70:-83:11:false:0:Hub NPCs:false:0:0:false
+waypoint:Hootie::38:73:-91:6:false:0:Hub NPCs:false:0:0:false
+waypoint:Kat: :31:73:-102:11:false:0:Hub NPCs:false:0:0:false
+waypoint:George: :39:73:-101:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Ryu: :28:72:-116:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Bea: :31:72:-95:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Zog: :34:73:-97:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Fann: :38:72:-89:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Biblio: :14:74:-106:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Stella: :17:72:-99:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Billy Joe::-78:72:-70:6:false:0:Hub NPCs:false:0:0:false
+waypoint:Lonely Philosopher: :-251:132:41:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Madame Eleanor Q Goldsworth III::-63:79:84:6:false:0:Hub NPCs:false:0:0:false
+waypoint:Shens Agent: :-7:57:-96:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Jax: :5:63:-134:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Rosetta: :-12:70:-141:15:false:0:Hub NPCs:false:0:0:false
+waypoint:Blacksmith: :-40:79:-300:15:false:0:Mining Islands NPCs:false:0:0:false
+waypoint:Iron Forger: :-2:77:-308:15:false:0:Mining Islands NPCs:false:0:0:false
+waypoint:Gold Forger: :-28:76:-295:15:false:0:Mining Islands NPCs:false:0:0:false
+waypoint:Rusty: :-20:80:-326:15:false:0:Mining Islands NPCs:false:0:0:false
+waypoint:Lazy Miner: :-12:80:-338:15:false:0:Mining Islands NPCs:false:0:0:false
+waypoint:Lift Operator: :45:152:15:3:false:0:Mining Islands NPCs:false:0:0:false
+waypoint:Lift Operator: :45:103:17:11:false:0:Mining Islands NPCs:false:0:0:false
+waypoint:Lift Operator: :45:123:15:11:false:0:Mining Islands NPCs:false:0:0:false
+waypoint:Redstone Miner: :25:106:16:15:false:0:Mining Islands NPCs:false:0:0:false
+waypoint:Lift Operator: :45:68:15:11:false:0:Mining Islands NPCs:false:0:0:false
+waypoint:Lift Operator: :45:40:15:11:false:0:Mining Islands NPCs:false:0:0:false
+waypoint:Lift Operator: :45:15:15:11:false:0:Mining Islands NPCs:false:0:0:false
+waypoint:Rhys: :31:14:14:13:false:0:Mining Islands NPCs:false:0:0:false
+waypoint:Walter: :19:158:-36:15:false:0:Mining Islands NPCs:false:0:0:false
+waypoint:Lapis Miner: :-11:122:35:15:false:0:Mining Islands NPCs:false:0:0:false
+waypoint:Elise::43:84:68:6:false:0:Rift Dimension NPCs:false:0:0:false
+waypoint:Auction Agent::-31:75:-86:6:false:0:Dark Auction NPCs:false:0:0:false
+waypoint:Auction Agent::-31:75:-96:6:false:0:Dark Auction NPCs:false:0:0:false
+waypoint:Auction Agent::-36:75:-86:6:false:0:Dark Auction NPCs:false:0:0:false
+waypoint:Auction Agent::-36:75:-96:6:false:0:Dark Auction NPCs:false:0:0:false
+waypoint:Worker Xavier: :-425:112:-16:15:false:0:Park NPCs:false:0:0:false
+waypoint:Vanessa: :-305:78:-80:15:false:0:Park NPCs:false:0:0:false
+waypoint:Charlie: :-278:82:-18:15:false:0:Park NPCs:false:0:0:false
+waypoint:Gustave: :-364:91:44:10:false:0:Park NPCs:false:0:0:false
+waypoint:Melancholic Viking: :-336:94:73:11:false:0:Park NPCs:false:0:0:false
+waypoint:Old Shaman Nyko: :-371:86:-65:15:false:0:Park NPCs:false:0:0:false
+waypoint:Ryan: :-365:104:-91:4:false:0:Park NPCs:false:0:0:false
+waypoint:Master Tactician Funk: :-453:112:29:15:false:0:Park NPCs:false:0:0:false
+waypoint:Melody: :-412:111:71:15:false:0:Park NPCs:false:0:0:false
+waypoint:Tony: :278:106:-545:15:false:0:Farming Islands NPCs:false:0:0:false
+waypoint:Farmhand: :144:75:-241:15:false:0:Farming Islands NPCs:false:0:0:false
+waypoint:Windmill Operator: :98:91:-283:15:false:0:Farming Islands NPCs:false:0:0:false
+waypoint:Mason: :177:79:-356:15:false:0:Farming Islands NPCs:false:0:0:false
+waypoint:Beth: :163:79:-359:15:false:0:Farming Islands NPCs:false:0:0:false
+waypoint:Friendly Hiker: :181:79:-381:15:false:0:Farming Islands NPCs:false:0:0:false
+waypoint:Shepherd: :388:87:-373:15:false:0:Farming Islands NPCs:false:0:0:false
+waypoint:Hunter Ava: :319:104:-471:15:false:0:Farming Islands NPCs:false:0:0:false
+waypoint:Trevor: :281:106:-543:15:false:0:Farming Islands NPCs:false:0:0:false
+waypoint:Tammy: :284:106:-545:15:false:0:Farming Islands NPCs:false:0:0:false
+waypoint:Farmer Jon: :167:93:-599:15:false:0:Farming Islands NPCs:false:0:0:false
+waypoint:Jake: :261:186:-566:15:false:0:Farming Islands NPCs:false:0:0:false
+waypoint:Treasure Hunter: :200:94:-437:15:false:0:Farming Islands NPCs:false:0:0:false
+waypoint:Guildford::-19:88:4:6:false:0:Dungeons NPCs:false:0:0:false
+waypoint:Croesus: :-21:122:-14:15:false:0:Dungeon Hub NPCs:false:0:0:false
+waypoint:Hub Selector: :-37:121:10:15:false:0:Dungeon Hub NPCs:false:0:0:false
+waypoint:Ophelia: :-64:123:-7:4:false:0:Dungeon Hub NPCs:false:0:0:false
+waypoint:Adventurer Saul: :-53:121:-10:13:false:0:Dungeon Hub NPCs:false:0:0:false
+waypoint:Malik: :-64:123:5:4:false:0:Dungeon Hub NPCs:false:0:0:false
+waypoint:Hub -> Spider Den: :-162:75:-161:10:false:0:Travel:false:0:0:false
+waypoint:Deep Caverns -> Gold Mine: :3:159:86:10:false:0:Travel:false:0:0:false
+waypoint:Gold Mine -> Deep Craverns: :-8:70:-395:10:false:0:Travel:false:0:0:false
+waypoint:Hub -> Gold Mine: :-10:66:-231:10:false:0:Travel:false:0:0:false
+waypoint:Gold Mine -> Hub: :-5:76:-271:10:false:0:Travel:false:0:0:false
+waypoint:Desert Set... -> Farming Isl... : :151:78:-361:10:false:0:Travel:false:0:0:false
+waypoint:Farming Isl... -> Desert Set...: :142:94:-311:10:false:0:Travel:false:0:0:false
+waypoint:The Farming Islands -> Hub: :113:73:-205:10:false:0:Travel:false:0:0:false
+waypoint:Hub -> The Farming Islands: :77:74:-183:10:false:0:Travel:false:0:0:false
+waypoint:Savana Woodland -> Jungle Island: :-439:113:-17:10:false:0:Travel:false:0:0:false
+waypoint:Dark Thicket -> Savana Woodland: :-417:111:-16:10:false:0:Travel:false:0:0:false
+waypoint:Dark Thicket -> Savana Woodland: :-400:100:-35:10:false:0:Travel:false:0:0:false
+waypoint:Dark Thicket -> Spruce Woods: :-378:99:-34:10:false:0:Travel:false:0:0:false
+waypoint:Spruce Woods -> Dark Thickets: :-364:92:-18:10:false:0:Travel:false:0:0:false
+waypoint:Spruce Woods -> Birch Park: :-344:92:-5:10:false:0:Travel:false:0:0:false
+waypoint:Birch Park -> Spruce Woods: :-314:83:-10:10:false:0:Travel:false:0:0:false
+waypoint:The Park -> Hub: :-266:81:-18:10:false:0:Travel:false:0:0:false
+waypoint:Hub -> The Park: :-222:75:-16:10:false:0:Travel:false:0:0:false
